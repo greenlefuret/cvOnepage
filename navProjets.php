@@ -7,8 +7,8 @@
     </head>
     <body>
       <div class="navDecalage">
-          <h2 class="navTitre">PR<span class="jaune">O</span>FILE</h2>
-          <p class="italique">Quelques mots a propos de moi</p>
+          <h2 class="navTitre">PR<span class="jaune">O</span>JETS</h2>
+          <p class="italique">Mes projets</p>
       </div>
     </body>
 </html>

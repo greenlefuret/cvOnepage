@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Portfolio Benjamin PORTIER</title>
+        <title>Portfolio</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link rel="stylesheet" href="css/index.css">
     </head>
@@ -13,12 +13,16 @@
                  <?php include 'introduction.php' ?>
              </div>
              <div class="navigation">
+                 <?php include 'navProfile.php' ?>
              </div>
              <div class="navigation">
+                <?php include 'navResume.php' ?>
              </div>
              <div class="navigation">
+                <?php include 'navProjets.php' ?>
              </div>
              <div class="navigation">
+                <?php include 'navContact.php' ?>
              </div>
          </div>
 

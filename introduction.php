@@ -6,6 +6,6 @@
         <link rel="stylesheet" href="css/introduction.css">
     </head>
     <body>
-        <img alt="" src="img/computer.jpeg" style="width: 100%; height: 100%;"> <!-- height : auto si possible -->
+      <img alt="" src="img/computer.jpeg" style="width: 100%; height: 100%;"> <!-- height : auto si possible -->
     </body>
 </html>
