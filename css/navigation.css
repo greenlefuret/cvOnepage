@@ -1,0 +1,16 @@
+.jaune{
+  color: #ffc300;
+}
+
+.italique{
+  font-style: italic;
+  font-size: 10px;
+}
+
+.navDecalage{
+  margin-left: 15%;
+}
+
+.navTitre{
+  font-size: 30px;
+}
