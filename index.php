@@ -13,6 +13,14 @@
          <div id="page">  <!-- Permet de garder la moitié de l'écran pour y afficher nos différentes pages. -->
              <div id="displayComponent">
              </div>
+             <div class="navigation">
+             </div>
+             <div class="navigation">
+             </div>
+             <div class="navigation">
+             </div>
+             <div class="navigation">
+             </div>
          </div>
 <script type="text/javascript" src="js/main.js"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
