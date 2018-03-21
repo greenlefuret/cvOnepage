@@ -1,0 +1,19 @@
+#introBackground{
+    /* width: 100%;
+    height: auto;
+    background-image: url("../img/computer.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%; */
+}
+
+#introContent {
+    position: relative;
+    z-index: 10;
+    top: 50%;
+    opacity: 0.9;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
