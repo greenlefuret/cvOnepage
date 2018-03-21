@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -9,8 +10,8 @@
     </head>
     <body>
 
-<?php include 'includes/header.php' ?>
 
+<?php include 'includes/header.php' ?>
          <div id="page">  <!-- Tout ce qui se trouve dans cette div sera visible sans scroll. -->
              <div id="displayComponent"> <!-- Ici seront liées par une route les différentes pages de notre site. -->
                  <?php include 'introduction.php' ?>
@@ -28,6 +29,7 @@
                 <?php include 'navContact.php' ?>
              </div>
          </div>
+
 
 <script type="text/javascript" src="js/main.js"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
