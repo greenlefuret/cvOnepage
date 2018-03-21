@@ -2,16 +2,15 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Portfolio 2</title>
+        <title>Portfolio Benjamin PORTIER</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" href="css/w3.css">
-        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="css/index.css">
     </head>
     <body>
 
          <div id="page">  <!-- Tout ce qui se trouve dans cette div sera visible sans scroll. -->
              <div id="displayComponent"> <!-- Ici seront liées par une route les différentes pages de notre site. -->
-
+                 <?php include 'introduction.php' ?>
              </div>
              <div class="navigation">
              </div>
