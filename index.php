@@ -13,6 +13,14 @@
              <div id="displayComponent"> <!-- Ici seront liées par une route les différentes pages de notre site. -->
 
              </div>
+             <div class="navigation">
+             </div>
+             <div class="navigation">
+             </div>
+             <div class="navigation">
+             </div>
+             <div class="navigation">
+             </div>
          </div>
 
 <script type="text/javascript" src="js/main.js"></script>
