@@ -5,6 +5,7 @@
         <title>Portfolio</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/navigation.css">
     </head>
     <body>
 
@@ -12,16 +13,16 @@
              <div id="displayComponent"> <!-- Ici seront liées par une route les différentes pages de notre site. -->
                  <?php include 'introduction.php' ?>
              </div>
-             <div class="navigation">
+             <div class="navigation bgProfile">
                  <?php include 'navProfile.php' ?>
              </div>
-             <div class="navigation">
+             <div class="navigation bgResume">
                 <?php include 'navResume.php' ?>
              </div>
-             <div class="navigation">
+             <div class="navigation bgProjets">
                 <?php include 'navProjets.php' ?>
              </div>
-             <div class="navigation" style="background-color: black;">
+             <div class="navigation bgContact">
                 <?php include 'navContact.php' ?>
              </div>
          </div>
