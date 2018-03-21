@@ -15,9 +15,26 @@
   font-size: 30px;
 }
 
-.photo{
+.bgProfile{
   background-image: url(../img/computer.jpeg);
   background-repeat: no-repeat;
   background-size: 100%;
-  
+}
+
+.bgResume{
+  background-image: url(../img/computer.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.bgProjets{
+  background-image: url(../img/computer.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.bgContact{
+  background-image: url(../img/computer.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
