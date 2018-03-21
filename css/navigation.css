@@ -14,3 +14,10 @@
 .navTitre{
   font-size: 30px;
 }
+
+.photo{
+  background-image: url(../img/computer.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
