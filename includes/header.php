@@ -9,5 +9,6 @@
         <link rel="stylesheet" href="css/profile.css">
         <link rel="stylesheet" href="css/navigation.css">
         <link rel="stylesheet" href="css/contact.css">
+        <link rel="stylesheet" href="css/resume.css">
     </head>
     <body>
