@@ -17,7 +17,7 @@
               <div class="form-group">
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Votre message"></textarea>
               </div>
-              <button type="submit" class="btn btn-warning col-12">Envoyer</button>
+              <button type="submit" class="btn btn-warning col-10">Envoyer</button>
             </form>
         </div>
 
