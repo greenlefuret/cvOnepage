@@ -1,6 +1,6 @@
 <?php include 'includes/header.php' ?>
 
-         <div class="col-12" id="page">  <!-- Tout ce qui se trouve dans cette div sera visible sans scroll. -->
+         <div id="page">  <!-- Tout ce qui se trouve dans cette div sera visible sans scroll. -->
              <div id="displayComponent"> <!-- Ici seront liées par une route les différentes pages de notre site. -->
                  <?php include 'introduction.php' ?>
              </div>

@@ -1,32 +1,34 @@
-.jaune{
-  color: #ffc300;
-}
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */
+    .jaune{
+        color: #ffc300;
+    }
 
-.titre{
-  font-size: 30px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  border-bottom : 1px solid #ffc300;
-}
+    .titre{
+        font-size: 30px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border-bottom : 1px solid #ffc300;
+    }
 
-.txtLabel{
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
+    .txtLabel{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 
-.photoMoi{
-  border: 1px solid #ffc300;
-  border-radius: 8px;
-  height: 300px;
-  width: auto;
-}
+    .photoMoi{
+        border: 1px solid #ffc300;
+        border-radius: 8px;
+        height: 300px;
+        width: auto;
+    }
 
-.fond{
-  background-image: url();
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+    .fond{
+        background-image: url();
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
-.btnHire{
-  margin-bottom: 25px;
+    .btnHire{
+        margin-bottom: 25px;
+    }
 }

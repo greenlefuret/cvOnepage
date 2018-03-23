@@ -11,5 +11,6 @@
         <link rel="stylesheet" href="css/contact.css">
         <link rel="stylesheet" href="css/resume.css">
         <link rel="stylesheet" href="css/projets.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>

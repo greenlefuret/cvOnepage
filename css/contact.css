@@ -1,35 +1,37 @@
-.spacer{
-    margin: 20px;
-}
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */
+    .spacer{
+        margin: 20px;
+    }
 
-.titre{
-    margin-top: 30px;
-    margin-bottom: 30px;;
-    font-size: 30px;
-}
+    .titre{
+        margin-top: 30px;
+        margin-bottom: 30px;;
+        font-size: 30px;
+    }
 
-.jaune{
-    color: #ffc300;
-}
+    .jaune{
+        color: #ffc300;
+    }
 
-.map-responsive {
-    margin-top: 10px;
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;>
-    height:0;
-}
+    .map-responsive {
+        margin-top: 10px;
+        overflow:hidden;
+        padding-bottom:56.25%;
+        position:relative;>
+        height:0;
+    }
 
-.map-responsive iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
+    .map-responsive iframe {
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
 
-.sousTitre{
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-size: 25px;
-}
+    .sousTitre{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
+ }

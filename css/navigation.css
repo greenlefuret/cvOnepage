@@ -1,40 +1,42 @@
-.jaune{
-  color: #ffc300;
-}
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */
+    .jaune{
+        color: #ffc300;
+    }
 
-.italique{
-  font-style: italic;
-  font-size: 10px;
-}
+    .italique{
+        font-style: italic;
+        font-size: 10px;
+    }
 
-.navDecalage{
-  margin-left: 15%;
-}
+    .navDecalage{
+        margin-left: 15%;
+    }
 
-.navTitre{
-  font-size: 30px;
-}
+    .navTitre{
+        font-size: 30px;
+    }
 
-.bgProfile{
-  background-image: url(../img/computer.jpeg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
+    .bgProfile{
+        background-image: url(../img/computer.jpeg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 
-.bgResume{
-  background-image: url(../img/computer.jpeg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
+    .bgResume{
+        background-image: url(../img/computer.jpeg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 
-.bgProjets{
-  background-image: url(../img/computer.jpeg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
+    .bgProjets{
+        background-image: url(../img/computer.jpeg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 
-.bgContact{
-  background-image: url(../img/computer.jpeg);
-  background-repeat: no-repeat;
-  background-size: 100%;
+    .bgContact{
+        background-image: url(../img/computer.jpeg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 }
