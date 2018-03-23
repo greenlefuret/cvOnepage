@@ -9,10 +9,7 @@
         <link rel="stylesheet" href="css/profile.css">
         <link rel="stylesheet" href="css/navigation.css">
         <link rel="stylesheet" href="css/contact.css">
-<<<<<<< HEAD
         <link rel="stylesheet" href="css/resume.css">
-=======
         <link rel="stylesheet" href="css/projets.css">
->>>>>>> 74f601ccd21a7dce44385e60d50ee4a4057f08c9
     </head>
     <body>

@@ -7,7 +7,7 @@
 
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet1">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/navsimpson.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -18,8 +18,8 @@
                   <span aria-hidden="true">&times;</span>
                 </button>
               </div>
-              <div class="">
-                  <img src="img/computer.jpeg" style="width:100%;" alt="">
+              <div class="img-fluid">
+                  <img src="img/navsimpson.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -34,7 +34,7 @@
     <!-- Projet n°2 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet2">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/wetransfert.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -46,7 +46,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/wetransfert.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -61,7 +61,7 @@
     <!-- Projet n°3 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet3">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/memegenerator.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -73,7 +73,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/memegenerator.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -88,7 +88,7 @@
     <!-- Projet n°4 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet4">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/exomysql.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -100,7 +100,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/exomysql.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -115,7 +115,7 @@
     <!-- Projet n°5 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet5">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/blog.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -127,7 +127,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/blog.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -142,7 +142,7 @@
     <!-- Projet n°6 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet6">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/blueasy.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -154,7 +154,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/blueasy.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -169,7 +169,7 @@
     <!-- Projet n°7 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet7">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/templatemonster.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -181,7 +181,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/templatemonster.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -196,7 +196,7 @@
     <!-- Projet n°8 -->
     <div class="col-12 text-center thumbnail">
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modalProjet8">
-          <img src="img/computer.jpeg" alt="" style="width: 200px">
+          <img src="img/rechjoueur.png" alt="" style="width: 200px; height:130px;">
         </button>
         <div class="modal fade" id="modalProjet8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
@@ -208,7 +208,7 @@
                 </button>
               </div>
               <div class="">
-                  <img src="img/computer2.jpg" style="width:100%;" alt="">
+                  <img src="img/rechjoueur.png" alt="" style="width: 100%;">
               </div>
               <div class="modal-footer text-left backJaune">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
