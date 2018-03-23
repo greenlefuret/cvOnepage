@@ -84,4 +84,6 @@
    <div class="container fond">
          <p class="text-center">Hobbies 3</p>
    </div>
+
+<?php include 'includes/bas.php' ?>
 <?php include 'includes/footer.php' ?>

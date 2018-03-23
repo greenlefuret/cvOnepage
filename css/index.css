@@ -20,3 +20,15 @@ body{
     height: 12.5%;
     border: 1px solid black;
 }
+
+
+.bg-jaune{
+   background-color :#ffc300;
+   padding-bottom: 20px;
+   padding-top: 20px;
+}
+
+.blancFooter{
+  color:black;
+  font-size:10px;
+}

@@ -16,4 +16,5 @@
               <button type="submit" class="btnHire btn btn-warning col-12">Hire Me</button>
           </div>
     </div>
+<?php include 'includes/bas.php' ?>
 <?php include 'includes/footer.php' ?>
