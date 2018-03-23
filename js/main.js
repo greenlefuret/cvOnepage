@@ -10,5 +10,5 @@ function height(bloc){
         document.getElementById(bloc).style.height = hauteur+"px";
 }
 
-window.onload = function(){ height("page") };
-window.onresize = function(){ height("page") };
+//window.onload = function(){ height("page") };
+//window.onresize = function(){ height("page") };
