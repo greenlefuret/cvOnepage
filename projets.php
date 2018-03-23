@@ -220,5 +220,5 @@
 
     <div class="spacer"></div>
 
-
+<?php include 'includes/bas.php' ?>
 <?php include 'includes/footer.php'; ?>

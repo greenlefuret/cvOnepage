@@ -39,5 +39,5 @@
             <i class="fas fa-envelope"></i>
             <p>mail@gmail.com</p>
         </div>
-
+<?php include 'includes/bas.php' ?>
 <?php include 'includes/footer.php' ?>
